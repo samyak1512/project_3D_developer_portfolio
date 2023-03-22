@@ -8,7 +8,7 @@ import {
   html,
   css,
   reactjs,
-  redux,
+  pytorch,
   tailwind,
   nodejs,
   mongodb,
@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Machine Learning Engineer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React Js Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Data Analyst",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "MERN Stack Developer",
     icon: creator,
   },
 ];
@@ -82,7 +82,7 @@ const technologies = [
   },
   {
     name: "Redux Toolkit",
-    icon: redux,
+    icon: pytorch,
   },
   {
     name: "Tailwind CSS",
