@@ -212,49 +212,50 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Stable-base-lines",
+        name: "Weight n Biases",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link:
+      "https://github.com/samyak1512/Super-Mario-Reinforcement-Learning",
   },
   {
-    name: "Job IT",
+    name: "Generative adversarial networks Fashion MNIST",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      " A GAN architecture that generates images of fashion items in a 28*28 image.",
     tags: [
       {
-        name: "react",
+        name: "Tensorflow",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Tensorboard",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Google Fashion MNIST Dataset",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/samyak1512/GAN-Fashion-Mnist",
   },
   {
-    name: "Trip Guide",
+    name: "Classification of Tweets",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Implemented BERT with CNN to build a classifier for Tweets.Tweets related to abortion rights and Roe vs Wade were used as a dataset.Classified the tweets as Positive, Neutral, or Negative tweets.",
     tags: [
       {
-        name: "nextjs",
+        name: "PyTorch",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Hugging Face Trainer",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Matplotlib",
         color: "pink-text-gradient",
       },
     ],
