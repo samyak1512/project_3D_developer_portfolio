@@ -24,6 +24,9 @@ import {
   tripguide,
   threejs,
   IGTS,
+  supermario,
+  fashion,
+  bert,
 } from "../assets";
 
 export const navLinks = [
@@ -216,7 +219,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: supermario,
     source_code_link:
       "https://github.com/samyak1512/Super-Mario-Reinforcement-Learning",
   },
@@ -238,7 +241,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: fashion,
     source_code_link: "https://github.com/samyak1512/GAN-Fashion-Mnist",
   },
   {
@@ -259,8 +262,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: bert,
+    source_code_link: "https://www.kaggle.com/code/samyak15jain/bert-model",
   },
 ];
 
